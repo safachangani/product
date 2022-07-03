@@ -84,17 +84,20 @@ button:focus{
 
 @media (max-width:600px){
 
+    body{
+        overflow: hidden;
+    }
     .section-one{
         background-image: url(images/image-product-mobile.jpg);
         position: relative;
-        width: 376px;
+        width: 320px;
         height: 258px;
         border-bottom-left-radius: 0;
         border-top-right-radius: 10px;
         margin-top: -31px;}
     .section-two{
-        width: 378px;
-        height: 360px;
+        width: 320px;
+        height: 380px;
         background-color: white;
         padding-left: 22px;
         padding-top: 27px;
@@ -115,7 +118,7 @@ button:focus{
         font-size: 14px;
     }
     button{
-        width: 330px;
+        width: 270px;
     }
 
 }
