@@ -97,7 +97,7 @@ button:focus{
         margin-top: -31px;}
     .section-two{
         width: 320px;
-        height: 380px;
+        height: 315px;
         background-color: white;
         padding-left: 22px;
         padding-top: 27px;
@@ -110,15 +110,22 @@ button:focus{
     }
     h6{
         font-size: 15px;
+        margin-top: -20px;
     }
     h2{
         font-size: 34px;
+        margin-top: 0;
     }
     p{
         font-size: 14px;
+        margin-top: 0;
     }
     button{
         width: 270px;
+        margin-top: 0;
+    }
+    .price{
+        margin-top: -20px;
     }
 
 }
